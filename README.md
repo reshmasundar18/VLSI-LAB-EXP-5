@@ -6,7 +6,6 @@
 
 ## APPARATUS REQUIRED: 
                        Xilinx 14.7 Spartan6 FPGA
-
 ## PROCEDURE:
 ```
 STEP:1 Start the Xilinx navigator, Select and Name the New project.
