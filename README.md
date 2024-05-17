@@ -33,12 +33,12 @@ STEP:11 On the board, by giving required input, the LEDs starts to glow light, i
 
 STEP:12 Load the Bit file into the SPARTAN 6 FPGA 
 
-# Logic Diagram :
+## LOGIC DIAGRAM :
 
 ![image](https://github.com/navaneethans/VLSI-LAB-EXP-5/assets/6987778/34ec5d63-2b3b-4511-81ef-99f4572d5869)
 
 
-# PROGRAM:
+## PROGRAM:
 ```
 module FSM_moore(clk, rst, x, z);
 input clk, rst, x;
@@ -73,7 +73,7 @@ assign z=(present_state==S3);
 endmodule
 ```
 
-# OUTPUT:
+## OUTPUT:
 
 ![Screenshot 2024-05-17 133841](https://github.com/reshmasundar18/VLSI-LAB-EXP-5/assets/166894571/ec77595d-b635-48ac-ba4b-3430ea4bff8b)
 
